@@ -91,5 +91,7 @@ public class ConversorDeMoeda {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    sc1.close();
     }
+
 }
